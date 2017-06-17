@@ -1,0 +1,8 @@
+work todo
+1,python package
+
+2,python c/c++ 
+
+3,python run c/c++
+
+4,c/c++ run python
