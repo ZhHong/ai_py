@@ -1,0 +1,13 @@
+
+//test connect
+###
+http://localhost:18080/
+
+###
+https://localhost:18081/
+
+//test data
+###
+http://localhost:18080/hello?arg1=10&arg2=good
+###
+https://localhost:18081/hello?arg1=10&arg2=good
